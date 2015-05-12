@@ -3,3 +3,4 @@ this line is by R1
 this is again by master
 hello from R2
 hello again by master after R2
+some changes for stash
