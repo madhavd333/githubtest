@@ -1,0 +1,16 @@
+From b18254848d070dc385084ce6028916c42cfce1fe Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Tue, 12 May 2015 07:03:48 +0530
+Subject: [PATCH 10/11] deleted hi file in master
+
+---
+ hi.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 hi.txt
+
+diff --git a/hi.txt b/hi.txt
+deleted file mode 100644
+index e69de29..0000000
+-- 
+1.9.5.msysgit.1
+

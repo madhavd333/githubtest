@@ -1,0 +1,21 @@
+From 0868c64680fcf25af08db4dc0d5208d1c6de4f6e Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Tue, 12 May 2015 06:54:22 +0530
+Subject: [PATCH 08/11] stashed back file helloworld, has been committed
+
+---
+ helloworld.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/helloworld.txt b/helloworld.txt
+index ef67c5a..4d9697f 100644
+--- a/helloworld.txt
++++ b/helloworld.txt
+@@ -3,3 +3,4 @@ this line is by R1
+ this is again by master
+ hello from R2
+ hello again by master after R2
++some changes for stash
+-- 
+1.9.5.msysgit.1
+

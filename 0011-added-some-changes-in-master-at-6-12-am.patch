@@ -1,0 +1,26 @@
+From e54f6eb57939bfa001a46265b7dfa7d0ec888471 Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Wed, 13 May 2015 06:12:10 +0530
+Subject: [PATCH 11/11] added some changes in master at 6:12 am
+
+---
+ helloworld.txt | 1 +
+ xyz.txt        | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 xyz.txt
+
+diff --git a/helloworld.txt b/helloworld.txt
+index ab08ebc..e4ba7ad 100644
+--- a/helloworld.txt
++++ b/helloworld.txt
+@@ -5,3 +5,4 @@ hello from R2
+ hello again by master after R2
+ some changes for stash
+ this is in master for R4 for rebase
++hi by master
+diff --git a/xyz.txt b/xyz.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.1
+

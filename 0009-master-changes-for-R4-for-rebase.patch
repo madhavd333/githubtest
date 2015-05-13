@@ -1,0 +1,21 @@
+From 94872bffd903193f8894bc4eedafb4fb99fc95c2 Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Tue, 12 May 2015 07:03:17 +0530
+Subject: [PATCH 09/11] master changes for R4 for rebase
+
+---
+ helloworld.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/helloworld.txt b/helloworld.txt
+index 4d9697f..ab08ebc 100644
+--- a/helloworld.txt
++++ b/helloworld.txt
+@@ -4,3 +4,4 @@ this is again by master
+ hello from R2
+ hello again by master after R2
+ some changes for stash
++this is in master for R4 for rebase
+-- 
+1.9.5.msysgit.1
+

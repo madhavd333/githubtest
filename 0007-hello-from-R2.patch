@@ -1,0 +1,21 @@
+From b3e8fbaddaac77c174b3f9d367ade1552b7701ae Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Tue, 12 May 2015 06:23:24 +0530
+Subject: [PATCH 07/11] hello from R2
+
+---
+ helloworld.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/helloworld.txt b/helloworld.txt
+index 41266ba..0d1a025 100644
+--- a/helloworld.txt
++++ b/helloworld.txt
+@@ -1,3 +1,4 @@
+ this is the first file in master
+ this line is by R1
+ this is again by master
++hello from R2
+-- 
+1.9.5.msysgit.1
+
