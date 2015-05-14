@@ -1,0 +1,20 @@
+From ef75af5243eee5741304a72db4e964a60629a905 Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Wed, 13 May 2015 06:27:49 +0530
+Subject: [PATCH 13/13] patch1 file added
+
+---
+ patch1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 patch1.txt
+
+diff --git a/patch1.txt b/patch1.txt
+new file mode 100644
+index 0000000..90bfcb5
+--- /dev/null
++++ b/patch1.txt
+@@ -0,0 +1 @@
++this is a test
+-- 
+1.9.5.msysgit.1
+

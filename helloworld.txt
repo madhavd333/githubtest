@@ -1,8 +1,1 @@
-this is the first file in master
-this line is by R1
-this is again by master
-hello from R2
-hello again by master after R2
-some changes for stash
-this is in master for R4 for rebase
-hi by master
+this is in master
