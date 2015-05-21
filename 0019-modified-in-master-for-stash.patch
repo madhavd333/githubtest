@@ -1,0 +1,21 @@
+From ef029ebed9d2420411342c1faa588df21f8d7552 Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Thu, 14 May 2015 23:25:06 +0530
+Subject: [PATCH 19/22]  modified in master for stash
+
+---
+ helloworld.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/helloworld.txt b/helloworld.txt
+index c89f19c..bf8d5cc 100644
+--- a/helloworld.txt
++++ b/helloworld.txt
+@@ -1,3 +1,4 @@
+ this is in master
+ hello from R7
+ hello again in master
++some changes for stash
+-- 
+1.9.5.msysgit.1
+

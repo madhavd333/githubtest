@@ -1,0 +1,19 @@
+From 18dda60163cd573a2feca442310884415d2acda8 Mon Sep 17 00:00:00 2001
+From: madhav1 <madhav1@madhav.com>
+Date: Thu, 14 May 2015 23:04:26 +0530
+Subject: [PATCH 18/22] modified helloworld in R7
+
+---
+ helloworld.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/helloworld.txt b/helloworld.txt
+index 4828f96..cce466d 100644
+--- a/helloworld.txt
++++ b/helloworld.txt
+@@ -1 +1,2 @@
+ this is in master
++hello from R7
+-- 
+1.9.5.msysgit.1
+
